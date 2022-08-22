@@ -2,13 +2,15 @@
 ### Hi there 👋 I am Garima Sharma, a Data Scientist!
 A motivated Data scientist with over 10+ years of hands-on experience in implementing signal processing and machine learning algorithms and 4+ years of experience in designing explainable classification models for multimodal data. Proficient in exploratory data analysis, data pre-processing, feature engineering, predictive modeling as well as in scripting languages Python and MATLAB.  Adept in Python libraries: NumPy, pandas, sklearn, keras, TensorFlow, Matplotlib, seaborn.
 
+## My values and principles
+- I work with principle of fairness, ethics, and integrity. 
 
 <!--
 **Garimasharma8/Garimasharma8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
