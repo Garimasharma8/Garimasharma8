@@ -3,7 +3,7 @@
 A motivated Data scientist with over 10+ years of hands-on experience in implementing signal processing and machine learning algorithms and 4+ years of experience in designing explainable classification models for multimodal data. Proficient in exploratory data analysis, data pre-processing, feature engineering, predictive modeling as well as in scripting languages Python and MATLAB.  Adept in Python libraries: NumPy, pandas, sklearn, keras, TensorFlow, Matplotlib, seaborn.
 - 🔭 I’m currently working on signal processing, audio and image classification
 - 🌱 I’m currently learning MySQL for data scientist
-- 👯 I’m looking to collaborate on projects that required data wrangling and SQL. 
+- 👯 I’m looking to collaborate on projects that solve real-world problems using DATA! 
 - 💬 Ask me about my projects
 
 ## My values and principles
