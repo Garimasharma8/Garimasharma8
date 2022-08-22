@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img width="1620" alt="image" src="https://user-images.githubusercontent.com/97305078/185973282-a967a7e7-473c-442f-b9f9-edd4ab39fa37.png">
 
 <!--
 **Garimasharma8/Garimasharma8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
